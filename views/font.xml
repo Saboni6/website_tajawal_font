@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+    <template id="website_tajawal_font"
+              inherit_id="website.layout"
+              name="Tajawal Arabic Font">
+
+        <xpath expr="//head" position="inside">
+
+            <link rel="preconnect"
+                  href="https://fonts.googleapis.com"/>
+
+            <link rel="preconnect"
+                  href="https://fonts.gstatic.com"
+                  crossorigin="anonymous"/>
+
+            <link rel="stylesheet"
+                  href="https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700&amp;display=swap"/>
+
+        </xpath>
+
+    </template>
+
+</odoo>

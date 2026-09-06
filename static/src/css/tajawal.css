@@ -1,0 +1,50 @@
+/* =========================================
+   TAJAWAL - ARABIC WEBSITE ONLY
+   ========================================= */
+
+
+/* Normal Arabic website text */
+html[lang^="ar"] body {
+    font-family: "Tajawal", sans-serif !important;
+}
+
+
+/* MAIN TITLE - 30px */
+html[lang^="ar"] h1,
+html[lang^="ar"] .h1 {
+    font-family: "Tajawal", sans-serif !important;
+    font-size: 30px !important;
+    font-weight: 700 !important;
+}
+
+
+/* SMALL TITLES - 20px */
+html[lang^="ar"] h2,
+html[lang^="ar"] h3,
+html[lang^="ar"] h4,
+html[lang^="ar"] .h2,
+html[lang^="ar"] .h3,
+html[lang^="ar"] .h4 {
+    font-family: "Tajawal", sans-serif !important;
+    font-size: 20px !important;
+    font-weight: 500 !important;
+}
+
+
+/* NORMAL TEXT - 16px */
+html[lang^="ar"] p,
+html[lang^="ar"] li,
+html[lang^="ar"] span,
+html[lang^="ar"] a,
+html[lang^="ar"] button,
+html[lang^="ar"] input,
+html[lang^="ar"] textarea,
+html[lang^="ar"] select {
+    font-family: "Tajawal", sans-serif !important;
+}
+
+
+/* Website paragraph text */
+html[lang^="ar"] .oe_structure p {
+    font-size: 16px;
+}
